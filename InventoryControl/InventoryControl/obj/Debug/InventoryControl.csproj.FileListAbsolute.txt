@@ -1,0 +1,10 @@
+C:\Users\Hawk\Source\Repos\I\InventoryControl\InventoryControl\InventoryControl\bin\Debug\InventoryControl.exe.config
+C:\Users\Hawk\Source\Repos\I\InventoryControl\InventoryControl\InventoryControl\bin\Debug\InventoryControl.exe
+C:\Users\Hawk\Source\Repos\I\InventoryControl\InventoryControl\InventoryControl\bin\Debug\InventoryControl.pdb
+C:\Users\Hawk\Source\Repos\I\InventoryControl\InventoryControl\InventoryControl\obj\Debug\InventoryControl.csprojResolveAssemblyReference.cache
+C:\Users\Hawk\Source\Repos\I\InventoryControl\InventoryControl\InventoryControl\obj\Debug\InventoryControl.Properties.Resources.resources
+C:\Users\Hawk\Source\Repos\I\InventoryControl\InventoryControl\InventoryControl\obj\Debug\InventoryControl.csproj.GenerateResource.Cache
+C:\Users\Hawk\Source\Repos\I\InventoryControl\InventoryControl\InventoryControl\obj\Debug\InventoryControl.exe
+C:\Users\Hawk\Source\Repos\I\InventoryControl\InventoryControl\InventoryControl\obj\Debug\InventoryControl.pdb
+C:\Users\Hawk\Source\Repos\I\InventoryControl\InventoryControl\InventoryControl\obj\Debug\InventoryControl.PanelForm.resources
+C:\Users\Hawk\Source\Repos\I\InventoryControl\InventoryControl\InventoryControl\obj\Debug\InventoryControl.Forms.SellForm.resources
